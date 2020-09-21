@@ -14,4 +14,4 @@ Aplicação web “Dash Cron” tem como objetivo permitir agendar  tarefas para
 * Os Requisitos mínimos
 * Processo de instalação
 * Inspirações de Funcionalidade e Telas
-* Descrição das Funcionalidades do Projeto e Contato
+* Descrição das Funcionalidades do Projeto
