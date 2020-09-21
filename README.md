@@ -9,7 +9,7 @@ Aplicação web “Dash Cron” tem como objetivo permitir agendar  tarefas para
 * Ernandez
 * Maria Rebeca
 
-## Os Requisitos mínimos
+## Requisitos mínimos
 
 ## Processo de instalação
 
