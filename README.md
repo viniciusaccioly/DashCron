@@ -9,13 +9,6 @@ Aplicação web “Dash Cron” tem como objetivo permitir agendar  tarefas para
 * Ernandez
 * Maria Rebeca
 
-## Repositório: 
-https://github.com/ernandez-ds/DashCron.git
-
-## Vídeo de Apresentação: 
-http://link-para-o-video [link desatualizado!]
-
-
 ### Completar o arquivo README.md com:
 
 * Os Requisitos mínimos
