@@ -13,13 +13,12 @@ Aplicação web “Dash Cron” tem como objetivo permitir agendar  tarefas para
 https://github.com/ernandez-ds/DashCron.git
 
 ## Vídeo de Apresentação: 
-http://link-para-o-video
+http://link-para-o-video [link desatualizado!]
 
 
 ### Completar o arquivo README.md com:
 
-* A Descrição do projeto,
-* os Requisitos mínimos
-* Processo de instalação,
-* Inspirações de Funcionalidade e Telas,
-* Descrição das Funcionalidades do Projeto e Contato;
+* Os Requisitos mínimos
+* Processo de instalação
+* Inspirações de Funcionalidade e Telas
+* Descrição das Funcionalidades do Projeto e Contato
