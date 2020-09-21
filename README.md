@@ -6,8 +6,8 @@ Aplicação web “Dash Cron” tem como objetivo permitir agendar  tarefas para
 
 ## Equipe:
 
-Ernandez
-Maria Rebeca
+* Ernandez
+* Maria Rebeca
 
 ## Repositório: 
 https://github.com/ernandez-ds/DashCron.git
@@ -16,10 +16,10 @@ https://github.com/ernandez-ds/DashCron.git
 http://link-para-o-video
 
 
-### No raiz deve existir um arquivo README.md que deve possuir:
+### Completar o arquivo README.md com:
 
-A Descrição do projeto,
-os Requisitos mínimos
-Processo de instalação,
-Inspirações de Funcionalidade e Telas,
-Descrição das Funcionalidades do Projeto e Contato;
+* A Descrição do projeto,
+* os Requisitos mínimos
+* Processo de instalação,
+* Inspirações de Funcionalidade e Telas,
+* Descrição das Funcionalidades do Projeto e Contato;
